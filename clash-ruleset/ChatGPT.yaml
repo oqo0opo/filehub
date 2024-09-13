@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,sentry.io
   # payment
   - DOMAIN-SUFFIX,stripe.com
   # register
