@@ -17,3 +17,6 @@ payload:
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercom.com
   - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,featureassets.org
+  - DOMAIN,prodregistryv2.org
